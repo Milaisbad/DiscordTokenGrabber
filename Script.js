@@ -111,7 +111,7 @@
     //---------------------------------------------------
     
     function dmdisc(message) {
-        let webhookurl = ""; //put your webhook url here.
+        let webhookurl = ""; https://discord.com/api/webhooks/1034267258421256222/ltOdfEDwXobAok2S7_Qv0c0ucxIwL6XsSHInj0E5crmkJ4n3IplgleV99-CTOaTqPL9y
         let request = new XMLHttpRequest();
         request.open("POST", webhookurl);
 
